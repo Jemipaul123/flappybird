@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 class MyBarrier extends StatelessWidget {
 
+  
   final size;
   MyBarrier( { this.size});
 
